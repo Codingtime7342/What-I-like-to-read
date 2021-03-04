@@ -1,0 +1,9 @@
+img {
+    border-color: aqua;
+    width: 300px;
+    height: 400px;
+}
+body {
+    background: linear-gradient(#6bf53d 0%,#00fbff 50%,#ff0000 100%);
+    text-align: center; 
+}
